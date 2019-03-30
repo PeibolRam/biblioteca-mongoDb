@@ -19,7 +19,8 @@ const libroSchema = mongoose.Schema({
 
 // 3. CREACIÓN DEL MODELO
 // mongoose.model("el nombre del modelo en singular", schema de arriba, "nombre de la colección")
+//punto donde se conecta toda 
 const Libro = mongoose.model("libro", libroSchema, "librosDeProgramacion")
 
 // 4. EXPORTACIÓN
-module.exports = { Estudiante }
+module.exports = { Libro }
