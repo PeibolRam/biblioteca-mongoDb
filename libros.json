@@ -1,0 +1,39 @@
+
+[
+    {
+        "idLibro":"0001",
+        "titulo": "Programacion I",
+        "paginas": "45",
+        "descripcion": "Lorem"
+    },
+    {
+        "idLibro":"0002",
+        "titulo": "Programacion II",
+        "paginas": "45",
+        "descripcion": "Lorem"
+    },
+    {
+        "idLibro":"0003",
+        "titulo": "Programacion III",
+        "paginas": "45",
+        "descripcion": "Lorem"
+    },
+    {
+        "idLibro":"0004",
+        "titulo": "Programacion IV",
+        "paginas": "45",
+        "descripcion": "Lorem"
+    },
+    {
+        "idLibro":"0005",
+        "titulo": "Programacion V",
+        "paginas": "45",
+        "descripcion": "Lorem"
+    },
+    {
+        "idLibro":"0006",
+        "titulo": "Programacion I",
+        "paginas": "45",
+        "descripcion": "Lorem"
+    }
+]
